@@ -1,0 +1,5 @@
+{
+    "name": "MDF Web Push test",
+    "display": "standalone",
+    "gcm_sender_id": "170043138646"
+}
